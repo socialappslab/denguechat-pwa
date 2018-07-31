@@ -3,8 +3,30 @@
 
 # dengue-chat
 
-Experimenting PWA Technologies to later integrate them into DengueChat 
+Experimenting PWA technologies to later integrate them into DengueChat 
 plataform. Based in PWA Starter Kit of Google I/O 2018 (https://polymer.github.io/pwa-starter-kit/).
+
+### Project Prerequisites
+
+Node version 8.0.0 and above.
+
+### Installing
+
+Cloning the project and go to root directory:
+
+```
+git clone https://github.com/socialappslab/denguechat-pwa.git denguechat-pwa  
+cd denguechat-pwa  
+npm install
+```
+
+### Deployment
+
+Run the npm start script:
+
+```
+npm start
+```
 
 > ## 🛠 Status: In Development
 > PWA Starter Kit is currently in development. It's on the fast track to a 1.0 release, so we encourage you to use it and give us your feedback, but there are things that haven't been finalized yet and you can expect some changes.
@@ -35,10 +57,3 @@ gives you the following features:
 These are high priority and currently being worked on, and they will all be fixed before the 1.0 release:
 
 - `lit-element` and `lit-html` have IE11 compatibility issues.
-
-## TODOs
-
-- [x] Setup Safari testing on Travis.
-- [x] Deploy all templates as demos.
-- [ ] Update to latest [Material Web Components](https://github.com/material-components/material-components-web-components).
-
