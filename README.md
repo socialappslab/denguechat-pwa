@@ -1,6 +1,11 @@
 [![Built with pwa–starter–kit](https://img.shields.io/badge/built_with-pwa–starter–kit_-blue.svg)](https://github.com/Polymer/pwa-starter-kit "Built with pwa–starter–kit")
 [![Build status](https://api.travis-ci.org/Polymer/pwa-starter-kit.svg?branch=master)](https://travis-ci.org/Polymer/pwa-starter-kit)
 
+# dengue-chat
+
+Experimenting PWA Technologies to later integrate them into DengueChat 
+plataform. Based in PWA Starter Kit of Google I/O 2018 (https://polymer.github.io/pwa-starter-kit/).
+
 > ## 🛠 Status: In Development
 > PWA Starter Kit is currently in development. It's on the fast track to a 1.0 release, so we encourage you to use it and give us your feedback, but there are things that haven't been finalized yet and you can expect some changes.
 >
@@ -36,4 +41,4 @@ These are high priority and currently being worked on, and they will all be fixe
 - [x] Setup Safari testing on Travis.
 - [x] Deploy all templates as demos.
 - [ ] Update to latest [Material Web Components](https://github.com/material-components/material-components-web-components).
-# dengue-chat
+
